@@ -1,0 +1,55 @@
+UX Research Questions: Kashmiri Essence
+1. Discovery & Awareness
+
+How do users currently discover Kashmiri handicrafts online?
+What challenges do users face when searching for authentic cultural products?
+What information do users look for first when exploring handicraft products?
+
+2. Trust & Authenticity
+
+What signals help users trust that a product is genuinely Kashmiri?
+How do users currently verify authenticity when shopping online?
+What role do artisan stories and product origin play in building trust?
+What causes users to doubt or abandon a purchase?
+
+3. Cultural Understanding
+
+How much cultural context do users expect before purchasing a handicraft?
+Which cultural details add value to the shopping experience?
+How do users perceive platforms that focus on storytelling versus transactions?
+
+4. User Experience & Usability
+
+What makes a handicraft marketplace easy or difficult to use?
+Which parts of the browsing and purchasing flow feel confusing or overwhelming?
+How do users prefer to explore products: categories, stories, or recommendations?
+
+5. Mobile Behavior
+
+How do users typically shop for cultural or handcrafted products on mobile?
+What mobile UX patterns improve confidence and decision-making?
+What causes friction or drop-off in mobile-first experiences?
+
+6. Artisan Perspective
+
+What challenges do artisans face when selling products digitally?
+How do artisans want their craft, story, and identity to be represented?
+What prevents artisans from adopting existing digital platforms?
+
+7. Value Perception
+
+What factors influence users’ willingness to pay for authentic handicrafts?
+How does transparency affect perceived product value?
+What differentiates a meaningful cultural purchase from a generic one?
+
+8. Success Criteria
+
+What would make users return to the platform?
+What defines a “trustworthy” handicraft marketplace from a user’s perspective?
+How should success be measured from both user and artisan viewpoints?
+
+Few more
+
+Can you describe a past experience buying a cultural or handcrafted product online?
+What made you trust or distrust that experience?
+What information do you wish had been available?
